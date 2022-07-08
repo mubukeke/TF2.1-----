@@ -1,0 +1,4 @@
+tf.Tensor(
+[False False False False False  True False False False False False False
+ False False False False False False False False False False  True  True
+ False  True False False  True False], shape=(30,), dtype=bool)
